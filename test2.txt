@@ -1,3 +1,1 @@
-this is edited file
-
-modified
+this is created text2.txt
